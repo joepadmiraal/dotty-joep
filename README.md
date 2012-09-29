@@ -1,4 +1,10 @@
-# Dotty repository
+# Joep's Dotty repository
+
+## Cloning instructions
+Install rubby, rubygems and git.
+
+    gem install dotty
+
 
 ## dotfiles/
 
