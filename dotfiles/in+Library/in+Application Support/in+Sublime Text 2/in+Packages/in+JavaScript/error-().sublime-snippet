@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[if (error) {
+  return callback(error);
+}]]></content>
+    <tabTrigger>error</tabTrigger>
+    <scope>source.js</scope>
+    <description>if (error) {…}</description>
+</snippet>

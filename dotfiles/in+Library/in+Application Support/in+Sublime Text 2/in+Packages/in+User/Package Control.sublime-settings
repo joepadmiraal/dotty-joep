@@ -1,0 +1,14 @@
+{
+	"auto_upgrade_last_run": 1351144185,
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"Git",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}
